@@ -31,5 +31,5 @@ There are two ways of setting up everything:
 
 ## Create ADO release pipeline
 
-:construction: Work in progress...
+:construction: Work in progress....
 
